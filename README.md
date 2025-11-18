@@ -8,7 +8,7 @@ Un document complet présentant les principales méthodologies statistiques util
 
 ## 🧪 Expérience PsyToolkit
 
-Un fichier ZIP contenant le script PsyToolkit permettant de mesurer la catégorisation des distances. Il inclut l’ensemble des éléments nécessaires pour importer, lancer et adapter l’expérience.
+Un fichier ZIP contenant le script PsyToolkit permettant d'utiliser la catégorisation des distances. Il inclut l’ensemble des éléments nécessaires pour importer, lancer et adapter l’expérience.
 
 ## 📊 Script R d’analyse
 
